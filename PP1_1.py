@@ -11,10 +11,5 @@ def q2():
 def q3():
   print (" Help Me!")
 
-<<<<<<< HEAD:PP1_1.py
 def q4:
-  #Write Assignment code here
-=======
-def q4():
-  print ("3 x 3 = 9")
->>>>>>> 8f15161 (second):PP1.py
+  print ("3 * 3 = 9")
