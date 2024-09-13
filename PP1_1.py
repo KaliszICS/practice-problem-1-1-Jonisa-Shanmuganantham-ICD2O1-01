@@ -11,5 +11,10 @@ def q2():
 def q3():
   print (" Help Me!")
 
-def q4:
+def q4():
   print ("3 * 3 = 9")
+
+q1()
+q2()
+q3()
+q4()
